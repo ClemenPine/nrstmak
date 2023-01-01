@@ -13,7 +13,7 @@ Additionally, placing H on the outer index results in a lot of LSBs, or "lateral
 On Colemak, A is placed on the left hand with the consonants, most likely to maintain similarity with Qwerty. However, this placement results in a lot of pinky trills with words such as `separate` and `arrange`. Pinky and ring fingers are usually not as dexterous as the middle and index fingers, and so over time these trilling motions, also known as "redirects", can cause strain.
 
 #### The Letter Y
-The placement of the letter Y on Colemak is often a source of discomfort. For example, `you`, despite being a fairly common word, is also a fairly uncomfortable redirect on Colemak. 
+The placement of the letter Y on Colemak is also often a source of discomfort. For example, `you`, despite being a fairly common word, is also a fairly uncomfortable redirect on Colemak. 
 
 ## Modifications
 I tried to keep the changes as minimal as possible, both to maintain the original feel of Colemak and to make the transitioning process simpler. Here's a summary of the changes:
