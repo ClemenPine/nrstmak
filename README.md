@@ -1,5 +1,5 @@
 # NRSTmak
-![nrstmak.png](nrstmak.svg)
+![changes.png](nrstmak.svg)
 
 ## Background
 For the past few years I've used the ![Colemak](https://colemak.com/) layout. It's a great layout, and [I've built up a decent speed on it](https://www.youtube.com/watch?v=rECAwQ8GrgM), but there are a few issues with it that I've noticed:
@@ -16,3 +16,12 @@ On Colemak, A is placed on the left hand with the consonants, most likely to mai
 The placement of the letter Y on Colemak is often a source of discomfort. For example, `you`, despite being a fairly common word, is also a fairly uncomfortable redirect on Colemak. 
 
 ## Modifications
+I tried to keep the changes as minimal as possible, both to maintain the original feel of Colemak and to make the transitioning process easier to learn. Here's a summary of the changes:
+
+- I moved N off of the right index to reduce the total use of that finger by 7% and to also remove common SFBs such as NK. This change also made it possible to put H on the home index position, which removes the very common HE LSB. 
+- I moved A off of the left pinky to reduce the awkward trilling sequences I mentioned earlier.
+- I moved Y off of the right ring to remove the common `you` redirect.
+
+In order accommodate these changes I needed to restructure the vowel hand significantly in order to keep the SFBs down. This means that the weight of the right hand has shifted off of the index and more towards the middle and ring fingers, which balances out the load better. Luckily, the left hand needed very few changes - resulting in only a slight increase to the left index weight. 
+
+![changes.svg](changes.svg)
