@@ -26,6 +26,11 @@ In order accommodate these changes I needed to restructure the vowel hand signif
 
 ![changes.svg](changes.svg)
 
+## Miscellaneous Notes
+- I didn't include the locations of punctuation and the letters Z, X, Q, and Z in the images because these keys are relatively uncommon compared to the rest of the letters. In the full layout ZXQJ are in their original Qwerty/Colemak spots and the punctuation is optimized for SFBs; however, you can customize the placements to best suit your needs.
+- This layout works well on both standard, row-staggered keyboards and on the state-of-the-art ortholinear keyboards. If you want to use a row-stag keyboard with this layout, you could also consider using an [angle-mod](https://colemakmods.github.io/ergonomic-mods/angle.html) version of this layout, which would promote a more comfortable left hand wrist angle.
+- As for my personal experience using this layout, I've fully switched over to using it full-time, and I currently type on it at around 110 WPM. 
+
 ## Layout
 Here's the layout in text-form for copy/pasting into your favorite keyboard analysis tools.
 ```
