@@ -1,2 +1,2 @@
-# nrstmak
-An ergonomic alternative to Colemak
+# NRSTmak
+![nrstmak.png](nrstmak.svg)
