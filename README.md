@@ -25,3 +25,11 @@ I tried to keep the changes as minimal as possible, both to maintain the origina
 In order accommodate these changes I needed to restructure the vowel hand significantly in order to keep the SFBs down. This means that the weight of the right hand has shifted off of the index and more towards the middle and ring fingers, which balances out the load better. Luckily, the left hand needed very few changes - resulting in only a slight increase to the left index weight. 
 
 ![changes.svg](changes.svg)
+
+## Layout
+Here's the layout in text-form for copy/pasting into your favorite keyboard analysis tools.
+```
+q w y p b  j k o u ,
+n r s t d  l h a e i
+z x c f g  v m ' ; .
+```
