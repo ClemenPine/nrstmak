@@ -16,7 +16,7 @@ On Colemak, A is placed on the left hand with the consonants, most likely to mai
 The placement of the letter Y on Colemak is often a source of discomfort. For example, `you`, despite being a fairly common word, is also a fairly uncomfortable redirect on Colemak. 
 
 ## Modifications
-I tried to keep the changes as minimal as possible, both to maintain the original feel of Colemak and to make the transitioning process easier to learn. Here's a summary of the changes:
+I tried to keep the changes as minimal as possible, both to maintain the original feel of Colemak and to make the transitioning process simpler. Here's a summary of the changes:
 
 - I moved N off of the right index to reduce the total use of that finger by 7% and to also remove common SFBs such as NK. This change also made it possible to put H on the home index position, which removes the very common HE LSB. 
 - I moved A off of the left pinky to reduce the awkward trilling sequences I mentioned earlier.
